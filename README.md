@@ -22,3 +22,7 @@ If you want the algorithm to start from frame i, go to line 45 and change the va
 
 
 Please refer to the documentation for a detailed explanation of the algorithm.
+
+# Demo
+
+![Alt Text](https://github.com/EmilianoGagliardiEmanueleGhelfi/inkless-painting/tree/master/doc/demo.gif)
