@@ -1,4 +1,4 @@
-How ro run
+#How ro run
 Run the script video_processing/video_reconstruction.m
 If you want to visualize the input video and reconstruction output in parallel, run video_processing/play_video.m (you need to run video_reconstruction.m before)
 
