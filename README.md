@@ -25,4 +25,4 @@ Please refer to the documentation for a detailed explanation of the algorithm.
 
 # Demo
 
-![Alt Text](https://github.com/EmilianoGagliardiEmanueleGhelfi/inkless-painting/tree/master/doc/demo.gif)
+![Alt Text](https://github.com/EmilianoGagliardiEmanueleGhelfi/inkless-painting/blob/master/gif/demo.gif)
