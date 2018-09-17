@@ -1,4 +1,4 @@
-#How ro run
+# How ro run
 Run the script video_processing/video_reconstruction.m
 If you want to visualize the input video and reconstruction output in parallel, run video_processing/play_video.m (you need to run video_reconstruction.m before)
 
@@ -8,10 +8,10 @@ Comment one of the two lines to see the results for the other dataset.
 A dataset folder has the form:
 
 dataset_name/
-|__ video
-|__ calibration_data/
-|__ calibration_images/
-|__ color_filters/
+  |__ video
+  |__ calibration_data/
+  |__ calibration_images/
+  |__ color_filters/
 
 Where video represents the input of the algorithm, calibration_data contains a .mat file with extrinsic and intrinsic parameters, calibration_images contains calibration images (intrinsic and extrinsic), and color_filters contains matlab functions representing color filters to be aplied to the frames of the video. 
 
